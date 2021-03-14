@@ -341,13 +341,7 @@ from  DjangoUeditor.widgets import UEditorWidget
          **在新建表单中，model_instance由于还没有保存到数据库，所以如果访问model_instance.pk可能是空的。因为您需要在getUploadPath处理这种情况
 
 
-##9、其他事项：
 
-    **本程序版本号采用a.b.ccc,其中a.b是本程序的号，ccc是ueditor的版本号，如1.2.122，1.2是DjangoUeditor的版本号，122指Ueditor 1.2.2.
-    **本程序安装包里面已经包括了Ueditor，不需要再额外安装。
-    **目前暂时不支持ueditor的插件
-    **别忘记了运行collectstatic命令，该命令可以将ueditor的所有文件复制到{{STATIC_ROOT}}文件夹里面
-    **Django默认开启了CSRF中间件，因此如果你的表单没有加入{% csrf_token %}，那么当您上传文件和图片时会失败
    
 
 
