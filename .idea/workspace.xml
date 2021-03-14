@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe51c0de-bfaa-4f75-8c17-00d91b6836c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pjtsnnvr1G0SAwtypXTH1cHrE6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15920\PycharmProjects\ITproject\IT_SERVICE_DESK" />
+      <recent name="C:\Users\15920\PycharmProjects\ITproject\IT_SERVICE_DESK\templates" />
+      <recent name="C:\Users\15920\PycharmProjects\ITproject\IT_SERVICE_DESK\apps\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15920\PycharmProjects\ITproject\IT_SERVICE_DESK\apps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IT_SERVICE_DESK" type="Python.DjangoServer" factoryName="Django server">
+      <module name="IT_SERVICE_DESK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe51c0de-bfaa-4f75-8c17-00d91b6836c6" name="Default Changelist" comment="" />
+      <created>1615708536116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615708536116</updated>
+      <workItem from="1615708537921" duration="16884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1793" y="680" width="638" height="534" key="find.popup" timestamp="1615739299401">
+      <screen x="-2160" y="435" width="1440" height="933" />
+    </state>
+    <state x="-1793" y="680" width="638" height="534" key="find.popup/-2160.435.1440.933/0.0.2560.1400@-2160.435.1440.933" timestamp="1615739299401" />
+    <state x="549" y="525" width="647" height="534" key="find.popup/-2160.435.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1615718573754" />
+    <state x="-1765" y="658" width="672" height="452" key="search.everywhere.popup" timestamp="1615732880032">
+      <screen x="-2160" y="435" width="1440" height="933" />
+    </state>
+    <state x="-1765" y="658" width="672" height="452" key="search.everywhere.popup/-2160.435.1440.933/0.0.2560.1400@-2160.435.1440.933" timestamp="1615732880032" />
+    <state x="703" y="335" width="672" height="678" key="search.everywhere.popup/-2160.435.1440.933/0.0.2560.1400@0.0.2560.1400" timestamp="1615713051002" />
+  </component>
+</project>
