@@ -177,10 +177,6 @@ class ChangePwdView(LoginRequiredMixin, View):
 class UploadImageView(LoginRequiredMixin, View):
     login_url = "/login/"
 
-    # def save_file(self, file):
-    #     with open("C:/Users/Administrator/PycharmProjects/MxOnline/media/head_image/uploaded.jpg", "wb") as f:
-    #         for chunk in file.chunks():
-    #             f.write(chunk)
 
     def post(self, request, *args, **kwargs):
         #处理用户上传的头像
